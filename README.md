@@ -1,3 +1,6 @@
+> [!NOTE]
+> **Arquivado:** fork mantido como registro de estudos do curso de HTML5 e CSS3. Este repositório não contém trabalho autoral adicional; consulte o [projeto original](https://github.com/gustavoguanabara/html-css) para o material atualizado.
+
 <img src="imagens/mascote.png" align="right" width="300">
 
 # Curso de HTML5 e CSS3
